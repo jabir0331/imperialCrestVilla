@@ -341,7 +341,7 @@ const BookingsPage = () => {
                                         <input
                                             type="text"
                                             value={fullName}
-                                            onChange={(e) => setFullName(e.target.value)}
+                                            onChange={(e) => setFullName(e.currentTarget.value)}
                                             required
                                             placeholder="Enter your full name"
                                             className="w-full px-4 py-4 pl-12 border-2 border-gray-200 rounded-xl focus:ring-4 focus:ring-blue-500/20 focus:border-blue-500 transition-all duration-300 bg-white/80 backdrop-blur-sm hover:bg-white hover:shadow-md group-hover:border-gray-300"
@@ -351,6 +351,7 @@ const BookingsPage = () => {
                                         </div>
                                     </div>
                                 </div>
+
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
 
                                     <div className="group">
@@ -363,7 +364,7 @@ const BookingsPage = () => {
                                                 type="tel"
                                                 value={phoneNum}
                                                 required
-                                                onChange={(e) => setPhoneNum(e.target.value)}
+                                                onChange={(e) => setPhoneNum(e.currentTarget.value)}
                                                 placeholder="Enter your phone number"
                                                 className="w-full px-4 py-4 pl-12 border-2 border-gray-200 rounded-xl focus:ring-4 focus:ring-blue-500/20 focus:border-blue-500 transition-all duration-300 bg-white/80 backdrop-blur-sm hover:bg-white hover:shadow-md group-hover:border-gray-300"
                                             />
@@ -372,6 +373,7 @@ const BookingsPage = () => {
                                             </div>
                                         </div>
                                     </div>
+
                                     <div className="group">
                                         <label className="block text-sm font-semibold text-gray-700 mb-3 flex items-center gap-2">
                                             <span className="w-2 h-2 bg-pink-400 rounded-full"></span>
@@ -382,7 +384,7 @@ const BookingsPage = () => {
                                                 type="email"
                                                 value={email}
                                                 required
-                                                onChange={(e) => setEmail(e.target.value)}
+                                                onChange={(e) => setEmail(e.currentTarget.value)}
                                                 placeholder="Enter your email"
                                                 className="w-full px-4 py-4 pl-12 border-2 border-gray-200 rounded-xl focus:ring-4 focus:ring-blue-500/20 focus:border-blue-500 transition-all duration-300 bg-white/80 backdrop-blur-sm hover:bg-white hover:shadow-md group-hover:border-gray-300"
                                             />
@@ -391,6 +393,7 @@ const BookingsPage = () => {
                                             </div>
                                         </div>
                                     </div>
+
                                 </div>
 
                             </div>
@@ -431,7 +434,7 @@ const BookingsPage = () => {
                             </div>
                         </div>
 
-                        {/* Booking Summary Section */}
+                        
                         {/* Enhanced Booking Summary Section */}
                         <div className="bg-gradient-to-br from-blue-50 via-white to-indigo-50 p-8 rounded-2xl shadow-xl border border-blue-100 relative overflow-hidden">
                             <div className="absolute -top-4 -right-4 w-20 h-20 bg-gradient-to-br from-blue-200/30 to-indigo-200/30 rounded-full"></div>
