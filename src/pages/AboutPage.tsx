@@ -18,7 +18,7 @@ const AboutPage = () => {
                             className="rounded-lg shadow-lg w-full h-96 object-cover"
                         />
                     </div>
-                    <div className='text-justify text-lg text-gray-600 leading-relaxed'>
+                    <div className='text-justify text-md text-gray-600 leading-relaxed'>
                         <p className=" mb-6">
                             Imperial Crest Villa was born from a vision to create a unique cultural bridge between Russia and Sri Lanka.
                             Nestled in the picturesque hill country of Nuwara Eliya, our villa offers guests an unprecedented experience
