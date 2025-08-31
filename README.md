@@ -2,7 +2,7 @@
 A modern, responsive website for Imperial Crest Villa, a luxury accommodation blending Russian heritage with Sri Lankan hospitality in Nuwara Eliya.
 
 ## Live Demo
-[View Live Website](https://imperialcrestvilla-df2q6.sevalla.page/)
+[View Live Website](https://imperialcrestvilla-2neju.sevalla.page/)
 
 ## Project Description
 This project was a freelance website development for a friend of mine, a luxury accommodation in Nuwara Eliya, Sri Lanka. The goal was to create an elegant, responsive website that showcases their unique fusion of Russian elegance and Sri Lankan hospitality while providing an intuitive booking experience.
