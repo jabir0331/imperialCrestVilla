@@ -24,7 +24,7 @@ This project was a freelance website development for a friend of mine, a luxury 
 
 ## 📁 Project Structure
 ```
-imperial-crest-villa/
+imperialCrestVilla/
 ├── public/
 │   └── images/              # All website images
 ├── src/
@@ -52,6 +52,7 @@ imperial-crest-villa/
 ## 🚀 Installation & Setup
 If you want to run this project locally:
 
+```bash
 # Clone the repository
 git clone https://github.com/jabir0331/imperialCrestVilla.git
 
@@ -63,8 +64,9 @@ npm install
 
 # Start the development server
 npm run dev
+```
 
-The application will open in your browser at `http://localhost:5173`.
+The application will open in your browser at `http://localhost:5173`
 
 
 ## Key Components Overview
