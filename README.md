@@ -19,7 +19,7 @@ This project was a freelance website development for a friend of mine, a luxury 
 - **Frontend**: React, TypeScript, Tailwind CSS  
 - **Routing**: React Router DOM  
 - **Icons**: Lucide React  
-- **Deployment**: Savella  
+- **Deployment**: Sevalla  
 - **Build Tool**: Vite  
 
 ## 📁 Project Structure
@@ -80,6 +80,7 @@ The application will open in your browser at `http://localhost:5173`
 
 ## Freelance Information
 Developed end-to-end (design, frontend development, and deployment) by M.N.N. Jabir as a freelance project.
+
 
 
 
