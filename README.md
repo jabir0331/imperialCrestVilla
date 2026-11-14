@@ -7,7 +7,7 @@ A modern, responsive website for Imperial Crest Villa, a luxury accommodation bl
 ## Project Description
 This project was a freelance website development for a friend of mine, a luxury accommodation in Nuwara Eliya, Sri Lanka. The goal was to create an elegant, responsive website that showcases their unique fusion of Russian elegance and Sri Lankan hospitality while providing an intuitive booking experience.
 
-## ✨ Features 
+## Features 
 - **Modern UI**: Elegant design with gradient backgrounds and smooth animations  
 - **Multi-page Layout**: 8 distinct pages with seamless navigation  
 - **Room Selection**: Detailed room comparisons with pricing and amenities  
@@ -15,14 +15,14 @@ This project was a freelance website development for a friend of mine, a luxury 
 - **Image Gallery**: Interactive image carousel with thumbnail navigation  
 
 
-## 🛠️ Built With
+## Built With
 - **Frontend**: React, TypeScript, Tailwind CSS  
 - **Routing**: React Router DOM  
 - **Icons**: Lucide React  
 - **Deployment**: Sevalla  
 - **Build Tool**: Vite  
 
-## 📁 Project Structure
+## Project Structure
 ```
 imperialCrestVilla/
 ├── public/
@@ -49,7 +49,7 @@ imperialCrestVilla/
 └── README.md               # This file
 ```
 
-## 🚀 Installation & Setup
+## Installation & Setup
 If you want to run this project locally:
 
 ```bash
@@ -78,8 +78,7 @@ The application will open in your browser at `http://localhost:5173`
 - **GalleryPage.tsx**: Interactive image carousel  
 - **ContactPage.tsx**: Contact form with business information and map  
 
-## Freelance Information
-Developed end-to-end (design, frontend development, and deployment) by M.N.N. Jabir as a freelance project.
+
 
 
 
